@@ -1,4 +1,4 @@
-# LLM Fine-Tuning Portfolio
+# Fine-Tuning Portfolio
 
 > **Rishab Panwar** | IIT Madras  
 
